@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Kiki's first personal webpage!
+This is Kiki's first personal webpage:) 
